@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/huseyiinclkn/huseyiinclkn/blob/main/src/img/kenny-eliason-uEcSKKDB1pg-unsplash.jpg)
+
 <div align="center">
  <a href="https://github.com/huseyiinclkn">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=%e2%9c%a8+Hüseyin Çalışkan+%e2%9c%a8;%f0%9f%93%9a+Java Software+Developer+%f0%9f%92%bb;Welcome+To+My+Profile+%f0%9f%91%80" alt="Typing SVG" />
